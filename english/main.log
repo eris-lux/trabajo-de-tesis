@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2025/dev/Debian)  (format=lualatex 2025.8.19)  11 NOV 2025 11:47
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2025/dev/Debian)  (format=lualatex 2025.8.19)  18 OCT 2026 19:46
  restricted system commands enabled.
 **main.tex
 (./main.tex
@@ -8,8 +8,8 @@ Lua module: luaotfload 2024-12-03 v3.29 Lua based OpenType font support
 Lua module: lualibs 2023-07-13 v2.76 ConTeXt Lua standard libraries.
 Lua module: lualibs-extended 2023-07-13 v2.76 ConTeXt Lua libraries -- extended 
 collection.
-luaotfload | conf : Root cache directory is "/home/diego/.texlive2025/texmf-var/
-luatex-cache/generic/names".
+luaotfload | conf : Root cache directory is "/home/eris/.texlive2025/texmf-var/l
+uatex-cache/generic/names".
 luaotfload | init : Loading fontloader "fontloader-2023-12-28.lua" from kpse-res
 olved path "/usr/share/texlive/texmf-dist/tex/luatex/luaotfload/fontloader-2023-
 12-28.lua".
@@ -20,8 +20,8 @@ Inserting `luaotfload.node_processor' in `hpack_filter'.
 Inserting `luaotfload.glyph_stream' in `glyph_stream_provider'.
 Inserting `luaotfload.define_font' in `define_font'.
 Lua-only attribute luaotfload_color_attribute = 2
-luaotfload | conf : Root cache directory is "/home/diego/.texlive2025/texmf-var/
-luatex-cache/generic/names".
+luaotfload | conf : Root cache directory is "/home/eris/.texlive2025/texmf-var/l
+uatex-cache/generic/names".
 Inserting `luaotfload.harf.strip_prefix' in `find_opentype_file'.
 Inserting `luaotfload.harf.strip_prefix' in `find_truetype_file'.
 Removing  `luaotfload.glyph_stream' from `glyph_stream_provider'.
@@ -46,8 +46,8 @@ morias U. de Chile
 Document Class: book 2024/06/29 v1.4n Standard LaTeX document class
 (/usr/share/texlive/texmf-dist/tex/latex/base/bk12.clo
 File: bk12.clo 2024/06/29 v1.4n Standard LaTeX file (size option)
-luaotfload | db : Font names database loaded from /home/diego/.texlive2025/texmf
--var/luatex-cache/generic/names/luaotfload-names.luc.gz)
+luaotfload | db : Font names database loaded from /home/eris/.texlive2025/texmf-
+var/luatex-cache/generic/names/luaotfload-names.luc.gz)
 \c@part=\count194
 \c@chapter=\count195
 \c@section=\count196
@@ -2025,11 +2025,11 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 
 Here is how much of LuaTeX's memory you used:
  43614 strings out of 475512
- 745682,1977958 words of node,token memory allocated
+ 745722,1977958 words of node,token memory allocated
  1978 words of node memory still in use:
    7 hlist, 2 vlist, 2 rule, 7 glue, 4 kern, 8 sub_mlist, 1 glyph, 322 attribute
 , 113 glue_spec, 162 attribute_list, 2 write, 29 pdf_action nodes
-   avail lists: 1:5,2:12683,3:492,4:12068,5:11322,6:100,7:19047,8:136,9:34218,10
+   avail lists: 1:6,2:12683,3:489,4:12068,5:11322,6:100,7:19048,8:136,9:34218,10
 :58,11:1794
  64545 multiletter control sequences out of 65536+600000
  201 fonts using 13447863 bytes
@@ -2064,7 +2064,7 @@ xlive/texmf-dist/fonts/type1/public/txfonts/txsyb.pfb></usr/share/texlive/texmf-
 dist/fonts/type1/public/txfonts/txsyc.pfb></usr/share/texlive/texmf-dist/fonts/t
 ype1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/u
 tmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (79 pages, 18723241 bytes).
+Output written on main.pdf (79 pages, 18723219 bytes).
 
 PDF statistics: 3055 PDF objects out of 3580 (max. 8388607)
  1684 compressed objects within 17 object streams
